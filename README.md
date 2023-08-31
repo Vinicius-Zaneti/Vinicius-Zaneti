@@ -43,12 +43,7 @@
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/Vinicius-Zaneti/Vinicius-Zaneti/output/snake.svg" alt="Snake animation" />
-
-###
-
+![Snake animation](https://github.com/Vinicius-Zaneti/Vinicius-Zaneti/blob/output/github-contribution-grid-snake.svg)
 
 
 
