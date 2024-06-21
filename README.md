@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Vinicius</h1>
-<h3 align="center">Sou Designer, Game Dev e futuro full stack.</h3>
+<h3 align="center">Sou Designer, Game Dev e Full Stack.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
