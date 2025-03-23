@@ -1,5 +1,5 @@
-<h1 align="left">Oi 👋, eu sou o Vinicius! </br>
-Sou Designer, Desenvolvedor e Game Dev.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=FFFFFF&background=FFFFFF00&vCenter=true&width=780&height=49&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o+Vinicius!++;Sou+Designer%2C+Desenvolvedor+e+Game+Dev.)](https://git.io/typing-svg)
+##
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div>
