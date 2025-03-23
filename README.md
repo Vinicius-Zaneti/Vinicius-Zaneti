@@ -6,6 +6,7 @@ Sou Designer, Desenvolvedor e Game Dev.</h1>
   <a href="https://www.linkedin.com/in/viniciuszaneti/" target="_blank" style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40" />
   </a>
+  <span>&nbsp;&nbsp;</span>
   <a href="https://www.behance.net/viniciuszaneti" target="_blank" style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" height="40" width="40" />
   </a>
